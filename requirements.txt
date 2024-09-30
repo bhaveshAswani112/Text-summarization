@@ -7,3 +7,5 @@ langchain-core
 validators
 youtube-transcript-api
 streamlit
+pytube
+unstructured
